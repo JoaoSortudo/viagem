@@ -1,6 +1,8 @@
 # Viagem
 Destino: Rod. Pres. João Goulart, KM 99,8 - Bom Jardim, RJ, 28660-000
+
 Ida: 30/12/2023 17:00 | Rua sao francisco xavier 635
+
 Volta: 02/01/2024 11:00
 
 ### Viajantes
@@ -20,7 +22,7 @@ Volta: 02/01/2024 11:00
 14. Salles (van)
 
 ### Mercado
-14 consumidores:
+14 consumidores
 
 - 6 sacos de pão de forma
 - 3 cartelas de ovos (30 unidades)
@@ -55,14 +57,18 @@ Volta: 02/01/2024 11:00
 - Papel Toalha
 - Saco de lixo
 
-- Estimativa total de preço: R$ 622
-- Estimativa individual: R$ 44
-- Pix (Joana | Nubank ): 
+```
+Estimativa total de preço: R$ 622
+Estimativa individual: R$ 44
+Pix (Joana | Nubank ): 
+```
 
 ### Cerveja
 - 11 Consumidores
 - 5 caixas de 24 garrafas de 600ml de Original
 - Volume: 72 Litros
-- Preço total: R$ 800
-- Pagamento individual: R$ 73
-- pix (Pedro Drago | Nubank): `322b720f-630c-42e5-964e-6b3df3e55877`
+```
+Preço total: R$ 800
+Pagamento individual: R$ 73
+pix (Pedro Drago | Nubank): 322b720f-630c-42e5-964e-6b3df3e55877
+```
